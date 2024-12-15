@@ -1,10 +1,11 @@
-Detecting and Analyzing Cyber Security Attacks Using Machine Learning
+**Detecting and Analyzing Cyber Security Attacks Using Machine Learning**
 
 
 The project delves into the use of machine learning for identifying, analyzing, and combating cyber security threats. It leverages an extensive, synthetic dataset from Incribo with over 40,000 records and 25 features to reveal critical insights into attack patterns, geographical hotspots, vulnerabilities in network traffic, and general trends in cyber security.
 
 
-Key Highlights:
+**Key Highlights:**
+
 Dataset Overview: Features like Attack Type, Geo-location, Traffic Type, Anomaly Scores, Packet Length provide a rich understanding of cyber threats.
 Exploratory Data Analysis: Bar charts and line graphs illustrate common attacks (Intrusion, DDoS, Malware) and vulnerable network traffic (FTP, HTTP, DNS).
 Geographic Hotspots: Regions such as Ghaziabad and Kalyan-Dombivli emerged as attack origins or frequent targets.
@@ -13,12 +14,13 @@ K-Means Clustering: Severity and Anomaly Scores helped identify distinct attack 
 Heatmap shows little feature correlation ensuring each attribute is independent for understanding attacks.
 
 
-Key Findings:
+**Key Findings:**
 Dataset dominated by DDoS Attacks: need for strong detection/prevention systems.
 DNS most frequent target, then HTTP and FTP: secure these protocols.
 Ghaziabad and Kalyan hotspots for attacks: need focused monitoring and defenses.
 Persistent cyber threats over time require proactive monitoring and evolving defenses.
 
-Conclusion:
+
+**Conclusion:**
 Project shows machine learning detects and analyzes cyber attacks providing actionable insights for network security enhancement. Identifying attack patterns, geographical risks, and critical traffic vulnerabilities guides cybersecurity teams to prioritize monitoring efforts, strengthen defenses, and raise awareness against cyber threats.
 This repository includes the full analysis, visualizations, and machine learning implementation, providing a comprehensive resource for understanding cybersecurity challenges and solutions.
