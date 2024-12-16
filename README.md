@@ -7,6 +7,7 @@ The project delves into the use of machine learning for identifying, analyzing, 
 **Key Highlights:**
 
 Dataset Overview: Features like Attack Type, Geo-location, Traffic Type, Anomaly Scores, Packet Length provide a rich understanding of cyber threats.
+
 Exploratory Data Analysis: Bar charts and line graphs illustrate common attacks (Intrusion, DDoS, Malware) and vulnerable network traffic (FTP, HTTP, DNS).
 Geographic Hotspots: Regions such as Ghaziabad and Kalyan-Dombivli emerged as attack origins or frequent targets.
 Time Series Analysis: 2020-2022 saw stable attacks, then a drop in 2023, possibly due to incomplete data or better security.
